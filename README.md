@@ -8,7 +8,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>](@volilya)  
 
 ### Languages and Tools:
-!(https://ubuntu.com/)[<img_src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'>]
+[<img_src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'>](https://ubuntu.com/)
 !(https://github.com/)[<img_src='https://github.com/volynetsilya/volynetsilya/assets/102143422/31a2e198-7c8b-49a4-bbf2-99d10d86a426'>]
 ### Also i use:
 Visual Studio GitHub Stack Overflow 
