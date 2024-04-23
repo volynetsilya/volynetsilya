@@ -9,9 +9,10 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>](@volilya)  
 
 ### Languages and Tools:
-<a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.python.org/" rel="nofollow"> <img src="https://docs.python.org/3/_static/py.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://github.com/encode/django-rest-framework" rel="nofollow"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://https://github.com" rel="nofollow"> <img src="https://github.com/volynetsilya/volynetsilya/assets/102143422/31a2e198-7c8b-49a4-bbf2-99d10d86a426" alt="github" width="40" height="40" style="max-width: 100%;"> </a>
-![https://github.com/](https://github.com/volynetsilya/volynetsilya/assets/102143422/31a2e198-7c8b-49a4-bbf2-99d10d86a426)
+<a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
 
 ### Also i use:
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a448c44bf7b44849879627e71843f17274bb7273be36f8dd5936e238d0ed427f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d3543324439312e7376673f7374796c653d706c6173746963266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a448c44bf7b44849879627e71843f17274bb7273be36f8dd5936e238d0ed427f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d3543324439312e7376673f7374796c653d706c6173746963266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d7768697465" alt="Visual Studio" data-canonical-src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&amp;logo=visual-studio&amp;logoColor=white" style="max-width: 100%;"></a>
