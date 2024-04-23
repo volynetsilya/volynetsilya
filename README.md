@@ -5,10 +5,10 @@
 - 📫 How to reach me domod-work@yandex.ru
 
 ### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@volilya)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>](@volilya)  
 
 ### Languages and Tools:
-!(https://ubuntu.com/)[<img_src='https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=Ubuntu+Server&img_url=http%3A//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/800px-Logo-ubuntu_cof-orange-hex.svg.png'>]
+!(https://ubuntu.com/)[<img_src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'>]
 !(https://github.com/)[<img_src='https://github.com/volynetsilya/volynetsilya/assets/102143422/31a2e198-7c8b-49a4-bbf2-99d10d86a426'>]
 ### Also i use:
 Visual Studio GitHub Stack Overflow 
