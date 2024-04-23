@@ -10,7 +10,7 @@
 
 ### Languages and Tools:
 <a href="https://www.python.org/" rel="nofollow"> <img src="https://docs.python.org/3/_static/py.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://github.com/encode/django-rest-framework" rel="nofollow"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://github.com/encode/django-rest-framework" rel="nofollow"> <img src="https://velog.velcdn.com/images/yulhee741/post/e80963d3-63e9-4230-8648-4a6b623f127f/%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://https://github.com" rel="nofollow"> <img src="https://github.com/volynetsilya/volynetsilya/assets/102143422/31a2e198-7c8b-49a4-bbf2-99d10d86a426" alt="github" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
 
